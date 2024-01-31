@@ -102,19 +102,20 @@
 #    amoeba_count=calculate_amoeba_population(time)
 #    print(f"Через{time}часов будет{amoeba_count}клеток.")
 
-#Задание 5
-print("vaariant for")
-from random import *
-K=randint(1,100)
-M=randint(1,10)
-s=0
-p=0
-print("у губки боба всего",K, "котлет(ы)")
-print("на одну сковородку помещается",M, "котлет(ы)")
-for b in range(0,K):
-    s+=1
-    if(s==M):
-        p+=1
-        s=0
-print("надо пожарить",p, "полных сковородок")
-print("на последней сковородке останится дожарить",p, "котлет(ы)")
+##Задание 5
+#print("vaariant for")
+#from random import *
+#K=randint(1,100)
+#M=randint(1,10)
+#s=0
+#p=0
+#print("у губки боба всего",K, "котлет(ы)")
+#print("на одну сковородку помещается",M, "котлет(ы)")
+#for b in range(0,K):
+#    s+=1
+#    if(s==M):
+#        p+=1
+#        s=0
+#print("надо пожарить",p, "полных сковородок")
+#print("на последней сковородке останится дожарить",p, "котлет(ы)")
+впп
